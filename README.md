@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World!
 
 <!--
 **DrPunkToad/DrPunkToad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Emily and I am a college student majoring in Computer Science!
+
+Here are some topics I'm working on:
+
+- Arm Assembly
+- Discrete Mathmatics
+- C++  Review
+- SQL and Data Analysis
+
+Hope you find something that can be useful or interesting on here!
+
+## 😸✌
